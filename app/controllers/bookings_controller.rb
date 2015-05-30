@@ -9,6 +9,7 @@ class BookingsController < ApplicationController
   end
 
   def create
+    #### To be created for booking
   end
 
   def available_slots
